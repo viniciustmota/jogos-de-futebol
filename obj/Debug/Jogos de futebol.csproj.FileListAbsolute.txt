@@ -1,0 +1,47 @@
+C:\Users\Fatec\Desktop\Futebol\Jogos de futebol\bin\Debug\Jogos de futebol.exe.config
+C:\Users\Fatec\Desktop\Futebol\Jogos de futebol\bin\Debug\Jogos de futebol.exe
+C:\Users\Fatec\Desktop\Futebol\Jogos de futebol\bin\Debug\Jogos de futebol.pdb
+C:\Users\Fatec\Desktop\Futebol\Jogos de futebol\obj\Debug\Jogos de futebol.csprojAssemblyReference.cache
+C:\Users\Fatec\Desktop\Futebol\Jogos de futebol\obj\Debug\Jogos_de_futebol.Form1.resources
+C:\Users\Fatec\Desktop\Futebol\Jogos de futebol\obj\Debug\Jogos_de_futebol.Properties.Resources.resources
+C:\Users\Fatec\Desktop\Futebol\Jogos de futebol\obj\Debug\Jogos de futebol.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\Futebol\Jogos de futebol\obj\Debug\Jogos de futebol.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\Futebol\Jogos de futebol\obj\Debug\Jogos de futebol.exe
+C:\Users\Fatec\Desktop\Futebol\Jogos de futebol\obj\Debug\Jogos de futebol.pdb
+C:\Users\Fatec\Desktop\Futebol\Jogos de futebol\obj\Debug\Jogos_de_futebol.Form2.resources
+E:\Jogos de futebol Vinicius\bin\Debug\Jogos de futebol.exe.config
+E:\Jogos de futebol Vinicius\bin\Debug\Jogos de futebol.exe
+E:\Jogos de futebol Vinicius\bin\Debug\Jogos de futebol.pdb
+E:\Jogos de futebol Vinicius\obj\Debug\Jogos_de_futebol.Form1.resources
+E:\Jogos de futebol Vinicius\obj\Debug\Jogos_de_futebol.Form2.resources
+E:\Jogos de futebol Vinicius\obj\Debug\Jogos_de_futebol.Form3.resources
+E:\Jogos de futebol Vinicius\obj\Debug\Jogos_de_futebol.Properties.Resources.resources
+E:\Jogos de futebol Vinicius\obj\Debug\Jogos de futebol.csproj.GenerateResource.cache
+E:\Jogos de futebol Vinicius\obj\Debug\Jogos de futebol.csproj.CoreCompileInputs.cache
+E:\Jogos de futebol Vinicius\obj\Debug\Jogos de futebol.exe
+E:\Jogos de futebol Vinicius\obj\Debug\Jogos de futebol.pdb
+E:\Jogos de futebol Vinicius\obj\Debug\Jogos de futebol.csprojAssemblyReference.cache
+C:\Users\Fatec\Desktop\Jogos de futebol Vinicius\bin\Debug\Jogos de futebol.exe.config
+C:\Users\Fatec\Desktop\Jogos de futebol Vinicius\bin\Debug\Jogos de futebol.exe
+C:\Users\Fatec\Desktop\Jogos de futebol Vinicius\bin\Debug\Jogos de futebol.pdb
+C:\Users\Fatec\Desktop\Jogos de futebol Vinicius\obj\Debug\Jogos de futebol.csprojAssemblyReference.cache
+C:\Users\Fatec\Desktop\Jogos de futebol Vinicius\obj\Debug\Jogos_de_futebol.Form1.resources
+C:\Users\Fatec\Desktop\Jogos de futebol Vinicius\obj\Debug\Jogos_de_futebol.Form2.resources
+C:\Users\Fatec\Desktop\Jogos de futebol Vinicius\obj\Debug\Jogos_de_futebol.Form3.resources
+C:\Users\Fatec\Desktop\Jogos de futebol Vinicius\obj\Debug\Jogos_de_futebol.Properties.Resources.resources
+C:\Users\Fatec\Desktop\Jogos de futebol Vinicius\obj\Debug\Jogos de futebol.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\Jogos de futebol Vinicius\obj\Debug\Jogos de futebol.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\Jogos de futebol Vinicius\obj\Debug\Jogos de futebol.exe
+C:\Users\Fatec\Desktop\Jogos de futebol Vinicius\obj\Debug\Jogos de futebol.pdb
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\bin\Debug\Jogos de futebol.exe.config
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\bin\Debug\Jogos de futebol.exe
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\bin\Debug\Jogos de futebol.pdb
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\obj\Debug\Jogos de futebol.csproj.AssemblyReference.cache
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\obj\Debug\Jogos_de_futebol.Form1.resources
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\obj\Debug\Jogos_de_futebol.Form2.resources
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\obj\Debug\Jogos_de_futebol.Form3.resources
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\obj\Debug\Jogos_de_futebol.Properties.Resources.resources
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\obj\Debug\Jogos de futebol.csproj.GenerateResource.cache
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\obj\Debug\Jogos de futebol.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\obj\Debug\Jogos de futebol.exe
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\obj\Debug\Jogos de futebol.pdb

@@ -1,0 +1,12 @@
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\bin\Release\Jogos de futebol.exe.config
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\bin\Release\Jogos de futebol.exe
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\bin\Release\Jogos de futebol.pdb
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\obj\Release\Jogos_de_futebol.Form1.resources
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\obj\Release\Jogos_de_futebol.Form2.resources
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\obj\Release\Jogos_de_futebol.Form3.resources
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\obj\Release\Jogos_de_futebol.Properties.Resources.resources
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\obj\Release\Jogos de futebol.csproj.GenerateResource.cache
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\obj\Release\Jogos de futebol.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\obj\Release\Jogos de futebol.exe
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\obj\Release\Jogos de futebol.pdb
+C:\Users\Fatec\Downloads\Jogos de futebol Vinicius\obj\Release\Jogos de futebol.csprojAssemblyReference.cache
